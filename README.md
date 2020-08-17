@@ -1,4 +1,6 @@
-### Hi there 👋
+### Mechanical engineer 👨‍🔧 looking for opportunities in Computer Science 👨‍💻
+
+### More about me at [adilnaqvi.com](https://adilnaqvi.com)
 
 <!--
 **notadilnaqvi/notadilnaqvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
