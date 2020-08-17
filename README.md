@@ -1,4 +1,4 @@
-### Mechanical engineer 👨‍🔧 looking for opportunities in Computer Science 👨‍💻
+### Mechanical engineer 👨‍🔧 looking for excuses to write more code 👨‍💻
 
 ### More about me at [adilnaqvi.com](https://adilnaqvi.com)
 
