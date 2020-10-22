@@ -39,6 +39,8 @@
 
 **Terminal:** Git Bash on Windows Terminal
 
+🚧 *This README is under construction* 🚧
+
 
 [email]: mailto:notadilnaqvi@gmail.com
 [website]: https://adilnaqvi.com/contact
