@@ -29,13 +29,16 @@
 
 ### Coding setup
 
-💻 &nbsp; **Machine**: Dell Inspiron 15 - 4GB RAM - Intel Core i3 @ 1.9GHz
+💻 &nbsp; **Machine**: Dell Inspiron 15 - 4GB RAM - Intel Core i3 @ 1.9GHz *(I know, it's sad)*
 
 ⚙ &nbsp; **OS:** Windows 10
 
 ✏ &nbsp; **Editor:** VS Code (occasionally Vim)
 
 ⚡ &nbsp; **Terminal:** Git Bash on Windows Terminal
+
+<br/>
+<br/>
 
 
 🚧 &nbsp; *This README is under construction* &nbsp; 🚧
