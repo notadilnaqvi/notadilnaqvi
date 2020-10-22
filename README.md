@@ -1,14 +1,12 @@
 ## Hi there, I'm Adil 👋
 
-🔭 I’m currently working on a natural language processing project
+🔭 &nbsp; I’m currently working on a natural language processing project
 
-🌱 I’m currently learning [Vim](https://www.vim.org/)
+🌱 &nbsp; I’m currently learning [Vim](https://www.vim.org/)
 
-👯 I’m looking for opportunities in computer science, especially artificial intelligence
+👯 &nbsp; I’m looking for opportunities in computer science, especially artificial intelligence
 
-😄 Pronouns: He/Him
-
-⚡ Fun fact: I prefer light mode over dark mode
+⚡ &nbsp; Fun fact: I prefer light mode over dark mode
 
 ## Connect with me
 
@@ -31,15 +29,16 @@
 
 ### Coding setup
 
-**Machine**: Dell Inspiron 15 - 4GB RAM - Intel Core i3 @ 1.9GHz
+💻 &nbsp; **Machine**: Dell Inspiron 15 - 4GB RAM - Intel Core i3 @ 1.9GHz
 
-**OS:** Windows 10
+⚙ &nbsp; **OS:** Windows 10
 
-**Editor:** VS Code (occasionally Vim)
+✏ &nbsp; **Editor:** VS Code (occasionally Vim)
 
-**Terminal:** Git Bash on Windows Terminal
+⚡ &nbsp; **Terminal:** Git Bash on Windows Terminal
 
-🚧 *This README is under construction* 🚧
+
+🚧 &nbsp; *This README is under construction* &nbsp; 🚧
 
 
 [email]: mailto:notadilnaqvi@gmail.com
