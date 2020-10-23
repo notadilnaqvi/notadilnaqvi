@@ -8,7 +8,7 @@
 
 🔎 &nbsp; I’m looking for opportunities in computer science, especially artificial intelligence
 
-🔥 Current hot take: Dark mode is overrated
+🔥 &nbsp; Current hot take: Dark mode is overrated
 
 ## Connect with me
 
