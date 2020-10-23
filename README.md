@@ -1,12 +1,14 @@
-## Hi there, I'm Adil 👋
+## Hi there 👋 I'm Adil
 
-🔭 &nbsp; I’m currently working on a natural language processing project
+🙂 &nbsp; I'm a mechanical engineer who loves to code
+
+👨‍💻 &nbsp; I’m currently working on a natural language processing project
 
 🌱 &nbsp; I’m currently learning [Vim](https://www.vim.org/)
 
-👯 &nbsp; I’m looking for opportunities in computer science, especially artificial intelligence
+🔎 &nbsp; I’m looking for opportunities in computer science, especially artificial intelligence
 
-⚡ &nbsp; Fun fact: I prefer light mode over dark mode
+🔥 Current hot take: Dark mode is overrated
 
 ## Connect with me
 
@@ -26,14 +28,16 @@
 - Node.js
 - React
 - MongoDB
+- Netlify
+- Heroku
 
 ### Coding setup
 
 💻 &nbsp; **Machine**: Dell Inspiron 15 - 4GB RAM - Intel Core i3 @ 1.9GHz *(I know, it's sad)*
 
-⚙ &nbsp; **OS:** Windows 10
+⚙️ &nbsp; **OS:** Windows 10
 
-✏ &nbsp; **Editor:** VS Code (occasionally Vim)
+🖊️ &nbsp; **Editor:** VS Code (occasionally Vim)
 
 ⚡ &nbsp; **Terminal:** Git Bash on Windows Terminal
 
