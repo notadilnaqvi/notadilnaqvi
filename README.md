@@ -12,7 +12,7 @@
 
 ## Connect with me
 
-[<img align="left" alt="Email" height="25px" src="/Icons/email.png" />][email][notadilnaqvi@gmail.com](mailto:notadilnaqvi.com)<br />
+[<img align="left" alt="Email" height="25px" src="/Icons/email.png" />][email][notadilnaqvi@gmail.com](mailto:notadilnaqvi@gmail.com)<br />
 
 [<img align="left" alt="Form" height="25px" src="/Icons/globe.png" />][website][adilnaqvi.com/contact](https://adilnaqvi.com/contact)<br />
 
