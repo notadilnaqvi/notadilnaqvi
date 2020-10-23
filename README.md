@@ -22,14 +22,22 @@
 
 ### Web development
 
-- HTML5
-- CSS3
-- jQuery
-- Node.js
-- React
-- MongoDB
-- Netlify
-- Heroku
+<img align="left" alt="Email" height="25px" src="/Icons/html.png" /> HTML5
+
+<img align="left" alt="Email" height="25px" src="/Icons/css.png" /> CSS3
+
+<img align="left" alt="Email" height="25px" src="/Icons/jquery.png" /> jQuery
+
+<img align="left" alt="Email" height="25px" src="/Icons/node.png" /> Node.js
+
+<img align="left" alt="Email" height="25px" src="/Icons/react.png" /> React
+
+<img align="left" alt="Email" height="25px" src="/Icons/mongodb.png" /> MongoDB
+
+<img align="left" alt="Email" height="25px" src="/Icons/netlify.png" /> Netlify
+
+<img align="left" alt="Email" height="25px" src="/Icons/heroku.png" /> Heroku
+
 
 ### Coding setup
 
