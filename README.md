@@ -41,13 +41,13 @@
 
 ### Coding setup
 
-💻 &nbsp; **Machine**: Dell Inspiron 15 - 4GB RAM - Intel Core i3 @ 1.9GHz *(I know, it's sad)*
+💻 &nbsp; **Machine:** Dell Inspiron 15 - 4GB RAM - Intel Core i3 @ 1.9GHz *(I know, it's sad)*
 
-⚙️ &nbsp; **OS:** Windows 10
+⚙️ &nbsp; **OS:** Ubuntu 20.04.1 LTS
 
-🖊️ &nbsp; **Editor:** VS Code (occasionally Vim)
+🖊️ &nbsp; **Editor:** VS Code (occasionally Vim + tmux)
 
-⚡ &nbsp; **Terminal:** Git Bash on Windows Terminal
+⚡ &nbsp; **Terminal:** Alacritty + Bash 
 
 <br/>
 <br/>
