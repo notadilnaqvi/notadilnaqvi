@@ -2,9 +2,7 @@
 
 🙂 &nbsp; I'm a mechanical engineer who loves to code
 
-👨‍💻 &nbsp; I’m currently working on a natural language processing project
-
-🌱 &nbsp; I’m currently learning [Vim](https://www.vim.org/)
+🌱 &nbsp; I’m currently learning [Crystal](https://crystal-lang.org/), a relatively new language which claims to be *as fast as C and as slick as Ruby*
 
 🔎 &nbsp; I’m looking for opportunities in computer science, especially artificial intelligence
 
