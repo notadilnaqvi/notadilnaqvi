@@ -2,9 +2,9 @@
 
 🙂 &nbsp; I'm a mechanical engineer who loves to code
 
-🌱 &nbsp; I’m currently learning [Crystal](https://crystal-lang.org/), a relatively new language which claims to be *as fast as C and as slick as Ruby*
+🌱 &nbsp; I’m currently working as a Front End Developer for a cyber security company
 
-🔎 &nbsp; I’m looking for opportunities in computer science, especially artificial intelligence
+🔎 &nbsp; I’m looking for opportunities in web development and artificial intelligence
 
 🔥 &nbsp; Current hot take: Dark mode is overrated
 
@@ -30,23 +30,13 @@
 
 <img align="left" alt="Email" height="25px" src="/Icons/react.png" /> React
 
+<img align="left" alt="Email" height="25px" src="/Icons/django.png" /> Django
+
 <img align="left" alt="Email" height="25px" src="/Icons/mongodb.png" /> MongoDB
 
 <img align="left" alt="Email" height="25px" src="/Icons/netlify.png" /> Netlify
 
 <img align="left" alt="Email" height="25px" src="/Icons/heroku.png" /> Heroku
-
-
-### Coding setup
-
-💻 &nbsp; **Machine:** Dell Inspiron 15 - 4GB RAM - Intel Core i3 @ 1.9GHz *(I know, it's sad)*
-
-⚙️ &nbsp; **OS:** Ubuntu 20.04.1 LTS
-
-🖊️ &nbsp; **Editor:** VS Code (occasionally Vim + tmux)
-
-⚡ &nbsp; **Terminal:** Alacritty + Bash 
-
 <br/>
 <br/>
 
