@@ -10,7 +10,7 @@
 
 ## Connect with me
 
-[<img align="left" alt="Email" height="25px" src="/Icons/email.png" />][email][notadilnaqvi@gmail.com](mailto:notadilnaqvi@gmail.com)<br />
+[<img align="left" alt="Email" height="25px" src="/Icons/email.png" />][email][hello@adilnaqvi.com](mailto:hello@adilnaqvi.com)<br />
 
 [<img align="left" alt="Form" height="25px" src="/Icons/globe.png" />][website][adilnaqvi.com/contact](https://adilnaqvi.com/contact)<br />
 
@@ -44,6 +44,6 @@
 🚧 &nbsp; *This README is under construction* &nbsp; 🚧
 
 
-[email]: mailto:notadilnaqvi@gmail.com
+[email]: mailto:hello@adilnaqvi.com
 [website]: https://adilnaqvi.com/contact
 [twitter]: https://twitter.com/notadilnaqvi
